@@ -22,14 +22,23 @@ Your parser should be written so as to be robust concerning leading and trailing
 You are responsible for ensuring that your program runs correctly when given a valid configu- ration file. Make no additional assumptions concerning the configuration format. 
 
 Listing 1: Example configuration file
+
 9 20 10 1000
 
 0 dc02 1234 
+
 1 dc03 1233 
+
 2 dc06 5233 
+
 3 dc05 1232 
+
 4 dc10 1233 
+
 5 dc09 3455 
+
 6 dc15 6789 
+
 7 dc18 3467 
+
 8 dc23 2546
