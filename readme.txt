@@ -1,4 +1,3 @@
-This program was collaborated by Yu Feng and Gen Zhou.
 
 To run this program:
 1. Extract the zip in a desired location
